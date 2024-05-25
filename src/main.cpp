@@ -12,6 +12,5 @@ int main()
     int n;
     cout << "Введите n: ";
     cin >> n;
-
-    std::cout << power(x,n);
+    std::cout << power(x, n);
 }
