@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿// Copyright 2024 Ilya Guryanov
+#include <iostream>
 #include "fun.h"
 #include <iostream>
 using namespace std;
